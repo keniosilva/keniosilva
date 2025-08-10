@@ -35,9 +35,9 @@ Sempre buscando aumentar produtividade, eficiência e confiabilidade nos projeto
 ---
 
 ## 📫 Vamos nos conectar!  
-- 💻 [Meu GitHub](https://github.com/SEU-USUARIO)  
+- 💻 [Meu GitHub](https://github.com/keniosilva)  
 - ✉️ **Email:** seuemail@exemplo.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/k%C3%AAnio-silva-a874a15a/)
 
 ---
 💬 **Sempre aberto a compartilhar conhecimento, aprender novas tecnologias e colaborar em projetos inovadores.**
